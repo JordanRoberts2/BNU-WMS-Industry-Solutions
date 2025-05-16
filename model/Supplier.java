@@ -2,8 +2,8 @@ package model;
 
 public class Supplier {
 
-    private String name;
     private int id;
+    private String name;
     private String contact;
     // order history tbc
 
